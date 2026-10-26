@@ -4,7 +4,6 @@
 
 .team-card {
   background-color: #ffffff;
-  border-radius: 0px 0px 4px 4px;
 }
 
 .team-name {
@@ -21,14 +20,14 @@
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color: #434455;
   text-align: center;
 }
 
 .team h2,
 .portfolio h2 {
   font-size: 36px;
-  line-height: 1.33;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   color: #2e2f42;
   text-align: center;
